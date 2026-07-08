@@ -1,0 +1,26 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Knowledge Sprint Quiz</title>
+    <link rel="stylesheet" href="styles.css" />
+  </head>
+  <body>
+    <main class="app-shell">
+      <section class="quiz-panel" aria-live="polite">
+        <div class="topbar">
+          <div>
+            <p class="eyebrow">Knowledge Sprint</p>
+            <h1 id="screen-title">Ready for a quick challenge?</h1>
+          </div>
+          <div class="score-pill" id="score-pill" hidden>Score: <span id="score-value">0</span></div>
+        </div>
+
+        <div id="app"></div>
+      </section>
+    </main>
+
+    <script src="app.js"></script>
+  </body>
+</html>
