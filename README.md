@@ -146,7 +146,7 @@ https://roadmap.sh/projects/quiz-app
 
 **Aditya Tyagi**
 
-GitHub: https://github.com/your-username
+GitHub: https://github.com/Aditya-Tyagi-4565/Quiz-App
 
 ---
 
